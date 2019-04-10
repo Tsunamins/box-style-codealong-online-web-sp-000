@@ -227,7 +227,11 @@ img, video, audio, iframe, table, form {
 
 #navbar nav { 
   border-left: 1px solid #ccc;
-  
+} 
+
+#navbar nav a { 
+  display: inline-block;
+}
   
 
 /*////////// LOGO //////////*/
