@@ -226,7 +226,8 @@ img, video, audio, iframe, table, form {
 } 
 
 #navbar nav { 
-  border-left: ;
+  border-left: 1px solid #ccc;
+  
   
 
 /*////////// LOGO //////////*/
