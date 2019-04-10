@@ -219,6 +219,9 @@ img, video, audio, iframe, table, form {
   position: fixed;
   top 0;
   left 0;
+  width: 100%;
+  z-index: 2;
+  border-bottom: 1px solid #ccc;
   
 
 /*////////// LOGO //////////*/
